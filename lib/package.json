@@ -1,0 +1,18 @@
+{
+  "name": "vector-ag",
+  "version": "2.0.0",
+  "description": "Package for Vectors",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/agnellazar/npm-pkg-vektor"
+  },
+  "keywords": [
+    "vector-ag"
+  ],
+  "author": "Agnel Lazar Alappat",
+  "license": "ISC"
+}
