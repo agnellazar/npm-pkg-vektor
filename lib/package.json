@@ -1,6 +1,6 @@
 {
   "name": "vector-ag",
-  "version": "2.0.1",
+  "version": "2.1.0",
   "description": "Package for Vectors",
   "main": "index.js",
   "scripts": {
