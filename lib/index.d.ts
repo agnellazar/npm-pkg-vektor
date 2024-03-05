@@ -1,6 +1,6 @@
 export declare class Vector2D {
     
-    constructor(x:number,y:number):null;
+    constructor(x:number,y:number);
 
     static origin: Vector2D;
 
